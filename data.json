@@ -1,0 +1,55 @@
+[
+    {"status": "success",
+    "data": [
+            {
+                "id": "1",
+            "campaignName":"test_notification1",
+            "status":"Draft",
+            "opens":"0",
+            "clicks":"0"
+        },
+        {
+                "id": "2",
+                "campaignName":"test_notification2",
+            "status":"Draft",
+            "opens":"0",
+            "clicks":"0"
+        },
+        {
+                "id": "3",
+                "campaignName":"test_notification3",
+            "status":"Draft",
+            "opens":"0",
+            "clicks":"0"
+        },
+        {
+                "id": "4",
+                "campaignName":"test_notification4",
+            "status":"Draft",
+            "opens":"0",
+            "clicks":"0"
+        },
+        {
+                "id": "5",
+                "campaignName":"test_notification5",
+            "status":"Draft",
+            "opens":"0",
+            "clicks":"0"
+        },
+        {
+                "id": "6",
+                "campaignName":"test_notification6",
+            "status":"Draft",
+            "opens":"0",
+            "clicks":"0"
+        },
+        {
+                "id": "7",
+                "campaignName":"test_notification7",
+            "status":"Draft",
+            "opens":"0",
+            "clicks":"0"
+        }
+        ]
+    }
+]
